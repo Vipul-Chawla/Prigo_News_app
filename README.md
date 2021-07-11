@@ -1,0 +1,2 @@
+# Prigo_News_app
+This is a news app that fetches news from some Api and shows them to the user. When user clicks on any news he will be redirected to that's original page. I have also added some categories for news like business,sports,health and etc. This app uses recyclerview for showing the list of news, Retrofit library is used to generate HTTP request to the news source. It also uses some other android studio's features like layouts, styles and so on.
